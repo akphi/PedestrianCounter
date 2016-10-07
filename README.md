@@ -6,3 +6,6 @@ The video I use as source file for analysis can be found at: https://www.dropbox
 Thanks http://www.femb.com.mx/blog/ for his invaluable advices. I recommend looking at his tutorial and going through documentations on the OpenCV Python tutorial side to understand the code.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZYgb9e5i_JM" frameborder="0" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ZYgb9e5i_JM/0.jpg)](http://www.youtube.com/watch?v=ZYgb9e5i_JM "Pedestrian Tracking and Counting")
+![image alt text](http//example.io/link-to-image)
