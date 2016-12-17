@@ -188,7 +188,7 @@ def nothing(x):
 
 srcTest = 'peopleCounter.avi'
 srcWebcam = 0
-srcMain = 'rtsp://catanthanh1.dyndns.org:5505/channel=0;stream=0;user=system;pass=system;'
+srcMain = '' # live source here
 cap = cv2.VideoCapture(srcTest)  # Open video file
 
 
